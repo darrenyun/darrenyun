@@ -6,12 +6,38 @@
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23000?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![Static Badge](https://img.shields.io/badge/React%20Native-%23000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Next.js-%23000?style=for-the-badge&logo=nextdotjs&logoColor=%23FFF)
 ![Static Badge](https://img.shields.io/badge/NestJS-%23000?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
+
 ![Static Badge](https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-%23000?style=for-the-badge&logo=css&logoColor=%23663399)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%23000?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/Sass-%23000?style=for-the-badge&logo=sass&logoColor=%23CC6699)
+![Static Badge](https://img.shields.io/badge/ant%20design-%23000?style=for-the-badge&logo=antdesign&logoColor=%230170FE)
+![Static Badge](https://img.shields.io/badge/React%20Query-%23000?style=for-the-badge&logo=reactquery&logoColor=%23FF4154)
+![Static Badge](https://img.shields.io/badge/redux-%23000?style=for-the-badge&logo=redux&logoColor=%23764ABC)
+
+![Static Badge](https://img.shields.io/badge/node.js-%23000?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E)
+![Static Badge](https://img.shields.io/badge/express-%23000?style=for-the-badge&logo=express&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/prisma-%23000?style=for-the-badge&logo=prisma&logoColor=%232D3748)
+![Static Badge](https://img.shields.io/badge/sequelize-%23000?style=for-the-badge&logo=sequelize&logoColor=%2352B0E7)
+![Static Badge](https://img.shields.io/badge/mysql-%23000?style=for-the-badge&logo=mysql&logoColor=%234479A1)
+![Static Badge](https://img.shields.io/badge/graphql-%23000?style=for-the-badge&logo=graphql&logoColor=%23E10098)
+![Static Badge](https://img.shields.io/badge/Apollo-%23000?style=for-the-badge&logo=apollographql&logoColor=%23311C87)
+![Static Badge](https://img.shields.io/badge/postman-%23000?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
+![Static Badge](https://img.shields.io/badge/nginx-%23000?style=for-the-badge&logo=nginx&logoColor=%23009639)
+
+![Static Badge](https://img.shields.io/badge/git-%23000?style=for-the-badge&logo=git&logoColor=%23F05032)
+![Static Badge](https://img.shields.io/badge/pnpm-%23000?style=for-the-badge&logo=pnpm&logoColor=%23F69220)
+![Static Badge](https://img.shields.io/badge/Claude%20Code-%23000?style=for-the-badge&logo=claude&logoColor=%23D97757)
+![Static Badge](https://img.shields.io/badge/codex-%23000?style=for-the-badge&logo=openai&logoColor=%23412991)
+![Static Badge](https://img.shields.io/badge/cursor-%23000?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/firebase-%23000?style=for-the-badge&logo=firebase&logoColor=%23DD2C00)
+![Static Badge](https://img.shields.io/badge/google%20cloud-%23000?style=for-the-badge&logo=googlecloud&logoColor=%234285F4)
+![Static Badge](https://img.shields.io/badge/AWS-%23000?style=for-the-badge)
 
 ###
 
