@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23000?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
