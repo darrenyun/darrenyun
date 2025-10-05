@@ -1,14 +1,17 @@
 <!-- <h1 align="center">Hi 👋, I'm Darren</h1> -->
 ### 
 
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-<h1>
+<!-- <h1>
   <a href="https://www.gautamkrishnar.com/">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+    <img src="https://i.imgur.com/Ty7cZOg.gif" width="5%">
   </a>
   Hi there 
-</h1>
+</h1> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=30&letterSpacing=2px&duration=3000&pause=500&color=583EF7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=DARREN+YUN;Full+Stack+Developer;Team+Lead)](https://git.io/typing-svg)
 
 ###
 
@@ -55,6 +58,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/darren-yun-b47b38266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darren-yun-b47b38266/" height="30" width="40" /></a>
 </p>
+<br/>
 
 ###
 
