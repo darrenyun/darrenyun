@@ -1,8 +1,17 @@
 <!-- <h1 align="center">Hi 👋, I'm Darren</h1> -->
 ### 
 
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='180'>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='180'>
+<!--
+https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif
+https://cruelify.neocities.org/img/a.gif
+https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwwMjhmZnBieWhwOGZraGE3NXA3aXdiZjg4bG9pOWhnemo5eHVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IQebREsGFRXmo/giphy.gif
+https://media.tenor.com/70PDT_5tWmMAAAAj/darkrai-pok%C3%A9mon-darkrai.gif
+https://64.media.tumblr.com/tumblr_md06agjByI1qfszuko1_500.gif
+-->
+
+<img align='left' src='https://cruelify.neocities.org/img/a.gif' width='180'>
+<img align='right' src='https://cruelify.neocities.org/img/a.gif' width='180'>
 
 <!-- <h1>
   <a href="https://www.gautamkrishnar.com/">
