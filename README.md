@@ -8,6 +8,7 @@ https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif
 https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwwMjhmZnBieWhwOGZraGE3NXA3aXdiZjg4bG9pOWhnemo5eHVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IQebREsGFRXmo/giphy.gif
 https://media.tenor.com/70PDT_5tWmMAAAAj/darkrai-pok%C3%A9mon-darkrai.gif
 https://64.media.tumblr.com/tumblr_md06agjByI1qfszuko1_500.gif
+https://i.pinimg.com/originals/32/a6/eb/32a6ebf6c0546ba0fb0d232e3aba49e7.gif
 -->
 
 <img align='left' src='https://cruelify.neocities.org/img/a.gif' width='180'>
