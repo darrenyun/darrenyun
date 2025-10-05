@@ -11,7 +11,19 @@
   Hi there 
 </h1> -->
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=30&letterSpacing=2px&duration=3000&pause=500&color=583EF7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=DARREN+YUN;Full+Stack+Developer;Team+Lead)](https://git.io/typing-svg)
+-->
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&letterSpacing=2px&duration=3000&pause=500&color=583EF7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=DARREN+YUN;Full+Stack+Developer;Team+Lead)](https://git.io/typing-svg)
+-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Foldit&size=30&letterSpacing=2px&duration=3000&pause=500&color=583EF7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=DARREN+YUN;Full+Stack+Developer;Team+Lead)](https://git.io/typing-svg)
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&letterSpacing=2px&duration=3000&pause=500&color=1200F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=DARREN+YUN;Full+Stack+Developer;Team+Lead)](https://git.io/typing-svg)
+-->
 
 ###
 
