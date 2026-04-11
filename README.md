@@ -79,6 +79,20 @@ https://i.pinimg.com/originals/32/a6/eb/32a6ebf6c0546ba0fb0d232e3aba49e7.gif
 
 ###
 
+<h3 align="left">💼 Experience:</h3>
+
+![Static Badge](https://img.shields.io/badge/B2B%20Sales%20%26%20Delivery%20System-%23000?style=for-the-badge&logo=googlemaps&logoColor=%234285F4)
+![Static Badge](https://img.shields.io/badge/Analytics%20%26%20Reporting%20Dashboard-%23000?style=for-the-badge&logo=soundcharts&logoColor=%23F5F258)
+![Static Badge](https://img.shields.io/badge/IoT%20Coffee%20Vending%20Machine%20Platform-%23000?style=for-the-badge&logo=mqtt&logoColor=%23660066)
+![Static Badge](https://img.shields.io/badge/Field%20Job%20Management%20System-%23000?style=for-the-badge&logo=googletasks&logoColor=%232DD665)
+![Static Badge](https://img.shields.io/badge/Customer%20Self--Service%20Portal-%23000?style=for-the-badge&logo=googleforms&logoColor=%237248B9)
+![Static Badge](https://img.shields.io/badge/Integrated%20Vending%20Machine%20%26%20Loyalty%20App-%23000?style=for-the-badge&logo=buymeacoffee&logoColor=%23907152)
+![Static Badge](https://img.shields.io/badge/Warehouse%20Management%20System-%23000?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=%2341BDF5)
+![Static Badge](https://img.shields.io/badge/CRM%20%26%20Deal%20Management-%23000?style=for-the-badge&logo=dask&logoColor=%23FC6E6B)
+![Static Badge](https://img.shields.io/badge/KPI%20Management%20System-%23000?style=for-the-badge&logo=googleanalytics&logoColor=%23E37400)
+
+###
+
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/darren-yun" target="blank">
