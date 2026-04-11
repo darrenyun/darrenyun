@@ -1,5 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Darren</h1> -->
-### 
+
+###
 
 <!--
 https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif
@@ -18,7 +19,7 @@ https://i.pinimg.com/originals/32/a6/eb/32a6ebf6c0546ba0fb0d232e3aba49e7.gif
   <a href="https://www.gautamkrishnar.com/">
     <img src="https://i.imgur.com/Ty7cZOg.gif" width="5%">
   </a>
-  Hi there 
+  Hi there
 </h1> -->
 
 <!--
@@ -62,13 +63,15 @@ https://i.pinimg.com/originals/32/a6/eb/32a6ebf6c0546ba0fb0d232e3aba49e7.gif
 ![Static Badge](https://img.shields.io/badge/Apollo-%23000?style=for-the-badge&logo=apollographql&logoColor=%23311C87)
 ![Static Badge](https://img.shields.io/badge/postman-%23000?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
 ![Static Badge](https://img.shields.io/badge/nginx-%23000?style=for-the-badge&logo=nginx&logoColor=%23009639)
+
 <!-- ![Static Badge](https://img.shields.io/badge/sequelize-%23000?style=for-the-badge&logo=sequelize&logoColor=%2352B0E7) -->
 
 ![Static Badge](https://img.shields.io/badge/git-%23000?style=for-the-badge&logo=git&logoColor=%23F05032)
+![Static Badge](https://img.shields.io/badge/Bun-%23000?style=for-the-badge&logo=bun&logoColor=%23FBF0DF)
 ![Static Badge](https://img.shields.io/badge/pnpm-%23000?style=for-the-badge&logo=pnpm&logoColor=%23F69220)
 ![Static Badge](https://img.shields.io/badge/Claude%20Code-%23000?style=for-the-badge&logo=claude&logoColor=%23D97757)
+![Static Badge](https://img.shields.io/badge/cursor-%23000?style=for-the-badge&logo=cursor&logoColor=%23EDECEC)
 ![Static Badge](https://img.shields.io/badge/codex-%23000?style=for-the-badge&logo=openai&logoColor=%23412991)
-![Static Badge](https://img.shields.io/badge/cursor-%23000?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/firebase-%23000?style=for-the-badge&logo=firebase&logoColor=%23DD2C00)
 ![Static Badge](https://img.shields.io/badge/google%20cloud-%23000?style=for-the-badge&logo=googlecloud&logoColor=%234285F4)
@@ -95,5 +98,9 @@ https://i.pinimg.com/originals/32/a6/eb/32a6ebf6c0546ba0fb0d232e3aba49e7.gif
 ###
 
 <!-- <img src="https://raw.githubusercontent.com/darrenyun/darrenyun/output/snake.svg" alt="Snake animation" /> -->
+
+###
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darrenyun&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats) -->
 
 ###
